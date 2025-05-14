@@ -1,0 +1,18 @@
+/* styles.qss */
+QWidget {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+QPushButton {
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+QTextBrowser {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+}
